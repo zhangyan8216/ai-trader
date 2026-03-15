@@ -1,0 +1,24 @@
+{
+  "risk": {
+    "max_position_size": 0.1,
+    "stop_loss": 0.02,
+    "take_profit": 0.05,
+    "max_daily_loss": 0.05
+  },
+  "trading": {
+    "timeframe": "1d",
+    "lookback_days": 252
+  },
+  "strategy": {
+    "default": "ml",
+    "ml": {
+      "model_type": "RandomForest",
+      "n_estimators": 100,
+      "prediction_period": 5
+    },
+    "technical": {
+      "indicators": ["MA", "RSI", "MACD", "BB"],
+      "ma_periods": [5, 10, 20, 50]
+    }
+  }
+}

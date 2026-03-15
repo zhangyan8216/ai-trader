@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 环境变量
+.env
+.venv
+env/
+venv/
+ENV/
+
+# 日志文件
+*.log
+trading.log
+
+# 数据文件
+*.csv
+*.h5
+*.pkl
+
+# 临时文件
+*.tmp
+*.bak
+*.temp

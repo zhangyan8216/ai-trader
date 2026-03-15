@@ -1,0 +1,167 @@
+{
+  "total_stocks": 10,
+  "total_capital": 1000000,
+  "total_final": 1218250.5077644503,
+  "total_return": 21.825050776445025,
+  "top_performers": [
+    {
+      "symbol": "JPM",
+      "name": "\u6469\u6839\u5927\u901a",
+      "current_price": 483.88320805973166,
+      "price_return": 202.4270050373323,
+      "initial_capital": 100000,
+      "final_value": 261941.60402986588,
+      "total_return": 161.94160402986586,
+      "annual_return": 40.03137187585813,
+      "total_trades": 33,
+      "recommendation": "\u4e70\u5165"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta",
+      "current_price": 481.5143176879705,
+      "price_return": 37.57551933942014,
+      "initial_capital": 100000,
+      "final_value": 130060.41547153611,
+      "total_return": 30.060415471536114,
+      "annual_return": 9.62532327364556,
+      "total_trades": 27,
+      "recommendation": "\u4e70\u5165"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "\u82f1\u4f1f\u8fbe",
+      "current_price": 672.8677915710844,
+      "price_return": 34.57355831421687,
+      "initial_capital": 100000,
+      "final_value": 127658.8466513735,
+      "total_return": 27.658846651373494,
+      "annual_return": 8.913255595528824,
+      "total_trades": 37,
+      "recommendation": "\u4e70\u5165"
+    }
+  ],
+  "results": [
+    {
+      "symbol": "AAPL",
+      "name": "\u82f9\u679c",
+      "current_price": 132.71323892607276,
+      "price_return": -11.524507382618154,
+      "initial_capital": 100000,
+      "final_value": 96542.64778521455,
+      "total_return": -3.457352214785446,
+      "annual_return": -1.2227195558209836,
+      "total_trades": 8,
+      "recommendation": "\u6301\u6709"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "\u5fae\u8f6f",
+      "current_price": 264.7655494917328,
+      "price_return": -11.744816836089056,
+      "initial_capital": 100000,
+      "final_value": 96476.55494917328,
+      "total_return": -3.5234450508267168,
+      "annual_return": -1.2463691078966832,
+      "total_trades": 5,
+      "recommendation": "\u6301\u6709"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "\u8c37\u6b4c",
+      "current_price": 135.00821501826903,
+      "price_return": -3.5655607012364143,
+      "initial_capital": 100000,
+      "final_value": 98930.33178962908,
+      "total_return": -1.0696682103709243,
+      "annual_return": -0.3753184890012973,
+      "total_trades": 11,
+      "recommendation": "\u6301\u6709"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "\u7279\u65af\u62c9",
+      "current_price": 241.47755109721226,
+      "price_return": 20.738775548606124,
+      "initial_capital": 100000,
+      "final_value": 116591.0204388849,
+      "total_return": 16.5910204388849,
+      "annual_return": 5.5138516528973724,
+      "total_trades": 21,
+      "recommendation": "\u4e70\u5165"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "\u82f1\u4f1f\u8fbe",
+      "current_price": 672.8677915710844,
+      "price_return": 34.57355831421687,
+      "initial_capital": 100000,
+      "final_value": 127658.8466513735,
+      "total_return": 27.658846651373494,
+      "annual_return": 8.913255595528824,
+      "total_trades": 37,
+      "recommendation": "\u4e70\u5165"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "\u4e9a\u9a6c\u900a",
+      "current_price": 136.334494108981,
+      "price_return": -2.6182184935850006,
+      "initial_capital": 100000,
+      "final_value": 99214.5344519245,
+      "total_return": -0.7854655480755002,
+      "annual_return": -0.27534281403519545,
+      "total_trades": 7,
+      "recommendation": "\u6301\u6709"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta",
+      "current_price": 481.5143176879705,
+      "price_return": 37.57551933942014,
+      "initial_capital": 100000,
+      "final_value": 130060.41547153611,
+      "total_return": 30.060415471536114,
+      "annual_return": 9.62532327364556,
+      "total_trades": 27,
+      "recommendation": "\u4e70\u5165"
+    },
+    {
+      "symbol": "JPM",
+      "name": "\u6469\u6839\u5927\u901a",
+      "current_price": 483.88320805973166,
+      "price_return": 202.4270050373323,
+      "initial_capital": 100000,
+      "final_value": 261941.60402986588,
+      "total_return": 161.94160402986586,
+      "annual_return": 40.03137187585813,
+      "total_trades": 33,
+      "recommendation": "\u4e70\u5165"
+    },
+    {
+      "symbol": "V",
+      "name": "Visa",
+      "current_price": 274.424920531447,
+      "price_return": 14.34371688810292,
+      "initial_capital": 100000,
+      "final_value": 107171.85844405145,
+      "total_return": 7.17185844405146,
+      "annual_return": 2.451364958262592,
+      "total_trades": 19,
+      "recommendation": "\u4e70\u5165"
+    },
+    {
+      "symbol": "WMT",
+      "name": "\u6c83\u5c14\u739b",
+      "current_price": 68.3134687639854,
+      "price_return": -54.457687490676406,
+      "initial_capital": 100000,
+      "final_value": 83662.69375279707,
+      "total_return": -16.33730624720292,
+      "annual_return": -6.0464418460801745,
+      "total_trades": 14,
+      "recommendation": "\u6301\u6709"
+    }
+  ],
+  "timestamp": "2026-03-15T13:38:23.161299"
+}

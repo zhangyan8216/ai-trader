@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-03-15T16:13:50.608894",
+  "best_return": 1046.4353503017976,
+  "best_params": {
+    "sl": 0.03,
+    "tp": 0.08,
+    "s": "\u53cc\u5747\u7ebf"
+  },
+  "stocks": [
+    {
+      "symbol": "AAPL",
+      "price": 150
+    },
+    {
+      "symbol": "MSFT",
+      "price": 300
+    },
+    {
+      "symbol": "NVDA",
+      "price": 500
+    },
+    {
+      "symbol": "JPM",
+      "price": 160
+    },
+    {
+      "symbol": "TSLA",
+      "price": 200
+    },
+    {
+      "symbol": "META",
+      "price": 350
+    }
+  ]
+}

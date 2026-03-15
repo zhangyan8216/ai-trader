@@ -1,0 +1,828 @@
+{
+  "total_stocks": 22,
+  "data_years": 5,
+  "total_capital": 2200000,
+  "total_final": 3010745.2033565645,
+  "total_return": 36.85205469802566,
+  "best_performers": [
+    {
+      "symbol": "WMT",
+      "name": "\u6c83\u5c14\u739b",
+      "current_price": 4749.972687413613,
+      "price_return": 3066.648458275742,
+      "best_strategy": "\u4e70\u5165\u6301\u6709",
+      "best_return": 461.7592424597361,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 37.99907941705838,
+          "final_value": 137999.07941705838,
+          "trades": 32
+        },
+        "\u52a8\u91cf": {
+          "return": 297.1694394767925,
+          "final_value": 397169.43947679247,
+          "trades": 251
+        },
+        "RSI": {
+          "return": 65.82303259187445,
+          "final_value": 165823.03259187445,
+          "trades": 54
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 461.7592424597361,
+          "final_value": 561759.2424597361,
+          "trades": 343
+        }
+      }
+    },
+    {
+      "symbol": "JPM",
+      "name": "\u6469\u6839\u5927\u901a",
+      "current_price": 1528.583480223389,
+      "price_return": 855.3646751396182,
+      "best_strategy": "\u52a8\u91cf",
+      "best_return": 112.62600600735122,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 22.15393107988182,
+          "final_value": 122153.93107988182,
+          "trades": 34
+        },
+        "\u52a8\u91cf": {
+          "return": 112.62600600735122,
+          "final_value": 212626.0060073512,
+          "trades": 254
+        },
+        "RSI": {
+          "return": 2.9482857835706087,
+          "final_value": 102948.28578357061,
+          "trades": 64
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 97.3771859008066,
+          "final_value": 197377.1859008066,
+          "trades": 362
+        }
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "name": "\u5fae\u8f6f",
+      "current_price": 1058.741883004371,
+      "price_return": 252.91396100145698,
+      "best_strategy": "\u4e70\u5165\u6301\u6709",
+      "best_return": 99.05880620840178,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": -3.352080853898398,
+          "final_value": 96647.9191461016,
+          "trades": 41
+        },
+        "\u52a8\u91cf": {
+          "return": 65.72001833324053,
+          "final_value": 165720.01833324053,
+          "trades": 261
+        },
+        "RSI": {
+          "return": 36.537549496492225,
+          "final_value": 136537.54949649223,
+          "trades": 55
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 99.05880620840178,
+          "final_value": 199058.80620840177,
+          "trades": 367
+        }
+      }
+    },
+    {
+      "symbol": "AAPL",
+      "name": "\u82f9\u679c",
+      "current_price": 1070.5839206715639,
+      "price_return": 613.7226137810426,
+      "best_strategy": "\u4e70\u5165\u6301\u6709",
+      "best_return": 59.039735260208424,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": -0.5652385021877999,
+          "final_value": 99434.7614978122,
+          "trades": 36
+        },
+        "\u52a8\u91cf": {
+          "return": -3.126645910005827,
+          "final_value": 96873.35408999417,
+          "trades": 272
+        },
+        "RSI": {
+          "return": 36.875211411528056,
+          "final_value": 136875.21141152806,
+          "trades": 68
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 59.039735260208424,
+          "final_value": 159039.73526020843,
+          "trades": 367
+        }
+      }
+    },
+    {
+      "symbol": "JNJ",
+      "name": "\u5f3a\u751f",
+      "current_price": 608.8913965577378,
+      "price_return": 280.5571228485861,
+      "best_strategy": "RSI",
+      "best_return": 31.565931965686268,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 1.005038136071016,
+          "final_value": 101005.03813607102,
+          "trades": 34
+        },
+        "\u52a8\u91cf": {
+          "return": 19.246401105342215,
+          "final_value": 119246.40110534221,
+          "trades": 235
+        },
+        "RSI": {
+          "return": 31.565931965686268,
+          "final_value": 131565.93196568626,
+          "trades": 63
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 5.580281969270524,
+          "final_value": 105580.28196927052,
+          "trades": 357
+        }
+      }
+    }
+  ],
+  "strategy_usage": {
+    "\u4e70\u5165\u6301\u6709": 5,
+    "\u52a8\u91cf": 6,
+    "RSI": 4,
+    "\u53cc\u5747\u7ebf": 7
+  },
+  "results": [
+    {
+      "symbol": "AAPL",
+      "name": "\u82f9\u679c",
+      "current_price": 1070.5839206715639,
+      "price_return": 613.7226137810426,
+      "best_strategy": "\u4e70\u5165\u6301\u6709",
+      "best_return": 59.039735260208424,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": -0.5652385021877999,
+          "final_value": 99434.7614978122,
+          "trades": 36
+        },
+        "\u52a8\u91cf": {
+          "return": -3.126645910005827,
+          "final_value": 96873.35408999417,
+          "trades": 272
+        },
+        "RSI": {
+          "return": 36.875211411528056,
+          "final_value": 136875.21141152806,
+          "trades": 68
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 59.039735260208424,
+          "final_value": 159039.73526020843,
+          "trades": 367
+        }
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "name": "\u5fae\u8f6f",
+      "current_price": 1058.741883004371,
+      "price_return": 252.91396100145698,
+      "best_strategy": "\u4e70\u5165\u6301\u6709",
+      "best_return": 99.05880620840178,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": -3.352080853898398,
+          "final_value": 96647.9191461016,
+          "trades": 41
+        },
+        "\u52a8\u91cf": {
+          "return": 65.72001833324053,
+          "final_value": 165720.01833324053,
+          "trades": 261
+        },
+        "RSI": {
+          "return": 36.537549496492225,
+          "final_value": 136537.54949649223,
+          "trades": 55
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 99.05880620840178,
+          "final_value": 199058.80620840177,
+          "trades": 367
+        }
+      }
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "\u8c37\u6b4c",
+      "current_price": 180.79580557166628,
+      "price_return": 29.139861122618772,
+      "best_strategy": "\u52a8\u91cf",
+      "best_return": 1.3839220719198202,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": -6.482787542105739,
+          "final_value": 93517.21245789426,
+          "trades": 36
+        },
+        "\u52a8\u91cf": {
+          "return": 1.3839220719198202,
+          "final_value": 101383.92207191982,
+          "trades": 201
+        },
+        "RSI": {
+          "return": -6.657859553367031,
+          "final_value": 93342.14044663297,
+          "trades": 71
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": -1.322212294382989,
+          "final_value": 98677.78770561701,
+          "trades": 358
+        }
+      }
+    },
+    {
+      "symbol": "AMZN",
+      "name": "amazon",
+      "current_price": 65.41707668651921,
+      "price_return": -53.27351665248627,
+      "best_strategy": "RSI",
+      "best_return": 2.6820623352924593,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 1.0427435166640788,
+          "final_value": 101042.74351666408,
+          "trades": 37
+        },
+        "\u52a8\u91cf": {
+          "return": -1.169063626282208,
+          "final_value": 98830.93637371779,
+          "trades": 194
+        },
+        "RSI": {
+          "return": 2.6820623352924593,
+          "final_value": 102682.06233529246,
+          "trades": 67
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 0.25401409654534657,
+          "final_value": 100254.01409654535,
+          "trades": 365
+        }
+      }
+    },
+    {
+      "symbol": "META",
+      "name": "Meta",
+      "current_price": 770.8561335035868,
+      "price_return": 120.24460957245337,
+      "best_strategy": "\u4e70\u5165\u6301\u6709",
+      "best_return": 13.793984193737533,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 2.405302931356651,
+          "final_value": 102405.30293135665,
+          "trades": 31
+        },
+        "\u52a8\u91cf": {
+          "return": -11.477760404050976,
+          "final_value": 88522.23959594902,
+          "trades": 234
+        },
+        "RSI": {
+          "return": 13.473623060675397,
+          "final_value": 113473.6230606754,
+          "trades": 65
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 13.793984193737533,
+          "final_value": 113793.98419373753,
+          "trades": 360
+        }
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "name": "\u82f1\u4f1f\u8fbe",
+      "current_price": 275.9321584329996,
+      "price_return": -44.81356831340009,
+      "best_strategy": "\u53cc\u5747\u7ebf",
+      "best_return": -0.09461997352616164,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": -0.09461997352616164,
+          "final_value": 99905.38002647384,
+          "trades": 31
+        },
+        "\u52a8\u91cf": {
+          "return": -16.830972674559874,
+          "final_value": 83169.02732544013,
+          "trades": 164
+        },
+        "RSI": {
+          "return": -19.747978602238522,
+          "final_value": 80252.02139776148,
+          "trades": 78
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": -1.4274933252760384,
+          "final_value": 98572.50667472396,
+          "trades": 367
+        }
+      }
+    },
+    {
+      "symbol": "TSLA",
+      "name": "\u7279\u65af\u62c9",
+      "current_price": 241.10588927283737,
+      "price_return": 20.55294463641868,
+      "best_strategy": "\u52a8\u91cf",
+      "best_return": 18.641758409961522,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": -5.765415590324526,
+          "final_value": 94234.58440967547,
+          "trades": 34
+        },
+        "\u52a8\u91cf": {
+          "return": 18.641758409961522,
+          "final_value": 118641.75840996152,
+          "trades": 197
+        },
+        "RSI": {
+          "return": 3.831265125580903,
+          "final_value": 103831.2651255809,
+          "trades": 67
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 0.8870220381363324,
+          "final_value": 100887.02203813633,
+          "trades": 351
+        }
+      }
+    },
+    {
+      "symbol": "F",
+      "name": "\u798f\u7279",
+      "current_price": 3.5983456483359895,
+      "price_return": -70.01378626386676,
+      "best_strategy": "\u53cc\u5747\u7ebf",
+      "best_return": -0.052572209553356515,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": -0.052572209553356515,
+          "final_value": 99947.42779044664,
+          "trades": 36
+        },
+        "\u52a8\u91cf": {
+          "return": -0.15923971577882184,
+          "final_value": 99840.76028422118,
+          "trades": 170
+        },
+        "RSI": {
+          "return": -0.18535946827128646,
+          "final_value": 99814.64053172871,
+          "trades": 75
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": -0.20557164396203007,
+          "final_value": 99794.42835603797,
+          "trades": 351
+        }
+      }
+    },
+    {
+      "symbol": "GM",
+      "name": "\u901a\u7528",
+      "current_price": 8.638453988136018,
+      "price_return": -75.31870289103995,
+      "best_strategy": "\u53cc\u5747\u7ebf",
+      "best_return": 0.21416865748286362,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 0.21416865748286362,
+          "final_value": 100214.16865748286,
+          "trades": 43
+        },
+        "\u52a8\u91cf": {
+          "return": -1.2885761320509774,
+          "final_value": 98711.42386794902,
+          "trades": 174
+        },
+        "RSI": {
+          "return": 0.14899472663133928,
+          "final_value": 100148.99472663134,
+          "trades": 64
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": -3.5849159788867984,
+          "final_value": 96415.0840211132,
+          "trades": 346
+        }
+      }
+    },
+    {
+      "symbol": "JPM",
+      "name": "\u6469\u6839\u5927\u901a",
+      "current_price": 1528.583480223389,
+      "price_return": 855.3646751396182,
+      "best_strategy": "\u52a8\u91cf",
+      "best_return": 112.62600600735122,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 22.15393107988182,
+          "final_value": 122153.93107988182,
+          "trades": 34
+        },
+        "\u52a8\u91cf": {
+          "return": 112.62600600735122,
+          "final_value": 212626.0060073512,
+          "trades": 254
+        },
+        "RSI": {
+          "return": 2.9482857835706087,
+          "final_value": 102948.28578357061,
+          "trades": 64
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 97.3771859008066,
+          "final_value": 197377.1859008066,
+          "trades": 362
+        }
+      }
+    },
+    {
+      "symbol": "BAC",
+      "name": "\u7f8e\u56fd\u94f6\u884c",
+      "current_price": 84.57539196823623,
+      "price_return": 156.2890665704128,
+      "best_strategy": "\u52a8\u91cf",
+      "best_return": 7.9701786286043355,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 2.006034982616693,
+          "final_value": 102006.0349826167,
+          "trades": 35
+        },
+        "\u52a8\u91cf": {
+          "return": 7.9701786286043355,
+          "final_value": 107970.17862860434,
+          "trades": 228
+        },
+        "RSI": {
+          "return": 1.3179086138132405,
+          "final_value": 101317.90861381324,
+          "trades": 73
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 3.528706492493715,
+          "final_value": 103528.70649249371,
+          "trades": 359
+        }
+      }
+    },
+    {
+      "symbol": "WFC",
+      "name": "\u5bcc\u56fd\u94f6\u884c",
+      "current_price": 206.0126913086377,
+      "price_return": 379.0992821131109,
+      "best_strategy": "\u4e70\u5165\u6301\u6709",
+      "best_return": 9.964414568010719,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": -5.399735954158576,
+          "final_value": 94600.26404584142,
+          "trades": 37
+        },
+        "\u52a8\u91cf": {
+          "return": -2.830798520349708,
+          "final_value": 97169.20147965029,
+          "trades": 238
+        },
+        "RSI": {
+          "return": 6.276203396730852,
+          "final_value": 106276.20339673085,
+          "trades": 56
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 9.964414568010719,
+          "final_value": 109964.41456801072,
+          "trades": 353
+        }
+      }
+    },
+    {
+      "symbol": "V",
+      "name": "Visa",
+      "current_price": 259.8290419220366,
+      "price_return": 8.262100800848572,
+      "best_strategy": "RSI",
+      "best_return": 7.587792148456574,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 6.703160406203912,
+          "final_value": 106703.16040620391,
+          "trades": 31
+        },
+        "\u52a8\u91cf": {
+          "return": 1.4422671485761966,
+          "final_value": 101442.2671485762,
+          "trades": 199
+        },
+        "RSI": {
+          "return": 7.587792148456574,
+          "final_value": 107587.79214845657,
+          "trades": 58
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 3.512536618445054,
+          "final_value": 103512.53661844505,
+          "trades": 329
+        }
+      }
+    },
+    {
+      "symbol": "MA",
+      "name": "\u4e07\u4e8b\u8fbe",
+      "current_price": 269.79547544421564,
+      "price_return": -29.00119067257483,
+      "best_strategy": "\u53cc\u5747\u7ebf",
+      "best_return": 7.085715826947737,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 7.085715826947737,
+          "final_value": 107085.71582694774,
+          "trades": 40
+        },
+        "\u52a8\u91cf": {
+          "return": 3.1659909948137352,
+          "final_value": 103165.99099481374,
+          "trades": 198
+        },
+        "RSI": {
+          "return": -8.316687436051215,
+          "final_value": 91683.31256394878,
+          "trades": 63
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": -18.4818861074099,
+          "final_value": 81518.1138925901,
+          "trades": 362
+        }
+      }
+    },
+    {
+      "symbol": "WMT",
+      "name": "\u6c83\u5c14\u739b",
+      "current_price": 4749.972687413613,
+      "price_return": 3066.648458275742,
+      "best_strategy": "\u4e70\u5165\u6301\u6709",
+      "best_return": 461.7592424597361,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 37.99907941705838,
+          "final_value": 137999.07941705838,
+          "trades": 32
+        },
+        "\u52a8\u91cf": {
+          "return": 297.1694394767925,
+          "final_value": 397169.43947679247,
+          "trades": 251
+        },
+        "RSI": {
+          "return": 65.82303259187445,
+          "final_value": 165823.03259187445,
+          "trades": 54
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 461.7592424597361,
+          "final_value": 561759.2424597361,
+          "trades": 343
+        }
+      }
+    },
+    {
+      "symbol": "COST",
+      "name": "\u597d\u5e02\u591a",
+      "current_price": 462.242493769584,
+      "price_return": -15.955910223712,
+      "best_strategy": "\u53cc\u5747\u7ebf",
+      "best_return": -14.714082007884688,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": -14.714082007884688,
+          "final_value": 85285.91799211531,
+          "trades": 36
+        },
+        "\u52a8\u91cf": {
+          "return": -36.28312612863649,
+          "final_value": 63716.87387136351,
+          "trades": 190
+        },
+        "RSI": {
+          "return": -19.868939477774315,
+          "final_value": 80131.06052222569,
+          "trades": 72
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": -27.682296726583623,
+          "final_value": 72317.70327341638,
+          "trades": 362
+        }
+      }
+    },
+    {
+      "symbol": "TGT",
+      "name": "\u9776\u5b50",
+      "current_price": 42.85005524886006,
+      "price_return": -74.79408514772939,
+      "best_strategy": "RSI",
+      "best_return": 1.6657762052286706,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": -2.6885716131447404,
+          "final_value": 97311.42838685526,
+          "trades": 30
+        },
+        "\u52a8\u91cf": {
+          "return": -14.55698332623567,
+          "final_value": 85443.01667376433,
+          "trades": 187
+        },
+        "RSI": {
+          "return": 1.6657762052286706,
+          "final_value": 101665.77620522867,
+          "trades": 83
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": -11.835151987093209,
+          "final_value": 88164.84801290679,
+          "trades": 363
+        }
+      }
+    },
+    {
+      "symbol": "XOM",
+      "name": "\u57c3\u514b\u68ee\u7f8e\u5b5a",
+      "current_price": 241.92649223279653,
+      "price_return": 141.92649223279653,
+      "best_strategy": "\u53cc\u5747\u7ebf",
+      "best_return": 4.25731557980855,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 4.25731557980855,
+          "final_value": 104257.31557980855,
+          "trades": 37
+        },
+        "\u52a8\u91cf": {
+          "return": 0.9301196657085384,
+          "final_value": 100930.11966570854,
+          "trades": 232
+        },
+        "RSI": {
+          "return": -11.456271115951298,
+          "final_value": 88543.7288840487,
+          "trades": 63
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 1.7722270498642465,
+          "final_value": 101772.22704986425,
+          "trades": 357
+        }
+      }
+    },
+    {
+      "symbol": "CVX",
+      "name": "\u96ea\u4f5b\u9f99",
+      "current_price": 34.51730127288522,
+      "price_return": -74.43162868675168,
+      "best_strategy": "\u53cc\u5747\u7ebf",
+      "best_return": 1.9520591037613777,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 1.9520591037613777,
+          "final_value": 101952.05910376138,
+          "trades": 38
+        },
+        "\u52a8\u91cf": {
+          "return": -4.876586227197157,
+          "final_value": 95123.41377280284,
+          "trades": 170
+        },
+        "RSI": {
+          "return": -4.859882803512926,
+          "final_value": 95140.11719648707,
+          "trades": 81
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": -7.5224690793967595,
+          "final_value": 92477.53092060324,
+          "trades": 341
+        }
+      }
+    },
+    {
+      "symbol": "JNJ",
+      "name": "\u5f3a\u751f",
+      "current_price": 608.8913965577378,
+      "price_return": 280.5571228485861,
+      "best_strategy": "RSI",
+      "best_return": 31.565931965686268,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 1.005038136071016,
+          "final_value": 101005.03813607102,
+          "trades": 34
+        },
+        "\u52a8\u91cf": {
+          "return": 19.246401105342215,
+          "final_value": 119246.40110534221,
+          "trades": 235
+        },
+        "RSI": {
+          "return": 31.565931965686268,
+          "final_value": 131565.93196568626,
+          "trades": 63
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": 5.580281969270524,
+          "final_value": 105580.28196927052,
+          "trades": 357
+        }
+      }
+    },
+    {
+      "symbol": "PFE",
+      "name": "\u8f89\u745e",
+      "current_price": 65.25128647748987,
+      "price_return": 97.7311711439087,
+      "best_strategy": "\u52a8\u91cf",
+      "best_return": 1.601836274377667,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": 1.455051913517862,
+          "final_value": 101455.05191351786,
+          "trades": 37
+        },
+        "\u52a8\u91cf": {
+          "return": 1.601836274377667,
+          "final_value": 101601.83627437767,
+          "trades": 228
+        },
+        "RSI": {
+          "return": -1.0221616270765226,
+          "final_value": 98977.83837292348,
+          "trades": 65
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": -7.494298450803777,
+          "final_value": 92505.70154919622,
+          "trades": 382
+        }
+      }
+    },
+    {
+      "symbol": "UNH",
+      "name": "\u8054\u5408\u56fd\u5065\u5eb7",
+      "current_price": 258.89039914994027,
+      "price_return": -46.06450017709578,
+      "best_strategy": "\u52a8\u91cf",
+      "best_return": -17.244228357445014,
+      "all_strategies": {
+        "\u53cc\u5747\u7ebf": {
+          "return": -21.616094348246595,
+          "final_value": 78383.9056517534,
+          "trades": 54
+        },
+        "\u52a8\u91cf": {
+          "return": -17.244228357445014,
+          "final_value": 82755.77164255499,
+          "trades": 206
+        },
+        "RSI": {
+          "return": -23.431246990093673,
+          "final_value": 76568.75300990633,
+          "trades": 69
+        },
+        "\u4e70\u5165\u6301\u6709": {
+          "return": -25.499260310582468,
+          "final_value": 74500.73968941753,
+          "trades": 338
+        }
+      }
+    }
+  ],
+  "timestamp": "2026-03-15T14:50:07.340909"
+}

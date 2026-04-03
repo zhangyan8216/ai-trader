@@ -1,0 +1,1 @@
+{"trading": {"enabled": true, "strategy": "mean_reversion", "max_trade": 10}, "api": {"key": "YOUR_API_KEY", "secret": "YOUR_API_SECRET"}}
